@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [![][kong-logo-url]][kong-url]
 
 ![Stars](https://img.shields.io/github/stars/Kong/konnect-portal?style=flat-square)
@@ -190,3 +191,7 @@ limitations under the License.
 [oss-url]: https://en.wikipedia.org/wiki/Open-source_software
 [yarn-install-url]: https://classic.yarnpkg.com/lang/en/docs/install
 [javascript-sdk-url]: https://www.npmjs.com/package/@kong/sdk-portal-js
+=======
+# konnectDevPortalLab20230921
+Repo for Konnect local Dev Portal training 20230921
+>>>>>>> 88095883d2222c611c89eb98ced640f0d221528f
